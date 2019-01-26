@@ -1,0 +1,36 @@
+body {
+    background-image: url(http://www.biocenit.cat/mypics/110/1105728/sneaker-head-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    margin: 20px;
+}
+
+li.active {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: white;  
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    color: #FF2F06;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}

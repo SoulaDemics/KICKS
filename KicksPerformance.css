@@ -1,0 +1,36 @@
+body {
+    background: url(https://www.sneakerfiles.com/wp-content/uploads/2007/02/jordan_xxii_printa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    margin: 20px;
+}
+
+li.active {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: white; 
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}

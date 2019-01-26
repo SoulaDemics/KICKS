@@ -1,0 +1,37 @@
+body {
+    background: url(https://static.highsnobiety.com/wp-content/uploads/2018/09/24133532/acronym-nike-presto-mid-style-roundup-00.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    margin: 20px;
+}
+
+li.active {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: white; 
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    color: #C8FC06;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+
